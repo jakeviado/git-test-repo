@@ -1,6 +1,15 @@
 package com.demo.oop.application;
 
 public class Circle {
+
+    /**
+     * * This is a model for Circle bla bla bla
+     * *
+     * * @param pi - Constant value of PI.
+     * * @param radius - Constant value of a circle.
+     * * @return - Returns value of PI, Radius, calculated value of circumference and area of a circle
+     * */
+
     private final double pi = 3.14159;
     private final double radius = 15.337;
 

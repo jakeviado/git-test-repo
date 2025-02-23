@@ -1,6 +1,15 @@
 package com.demo.oop.application;
 
 public class Ellipse extends Circle{
+
+    /**
+     * * This is a model for Ellipse bla bla bla
+     * *
+     * * @param a - Represents a constant value length of the semi-major axis (half of the longest diameter).
+     * * @param b - Represents a constant value length of the semi-minor axis (half of the shortest diameter) of the ellipse.
+     * * @return - Returns the calculated value of perimeter/circumference and area of an ellipse
+     * */
+
     private final double a = 5;
     private final double b = 4;
 
