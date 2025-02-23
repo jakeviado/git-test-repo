@@ -29,7 +29,8 @@ public class Application {
                 ellipse.getArea();
 
                 break;
-
+            default:
+                System.out.println("error");
         }
     }
 }
