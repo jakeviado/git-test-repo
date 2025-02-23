@@ -6,8 +6,8 @@ public class Circle {
      * * This is a model for Circle bla bla bla
      * *
      * * @param pi - Constant value of PI.
-     * * @param radius - Constant value of radius of a circle.
-     * * @return - Returns calculated value of circumference and area of a circle
+     * * @param radius - Constant value of a circle.
+     * * @return - Returns value of PI, Radius, calculated value of circumference and area of a circle
      * */
 
     private final double pi = 3.14159;
